@@ -1,0 +1,22 @@
+{
+  "name": "Ask Soph",
+  "short_name": "Ask Soph",
+  "icons": [
+    {
+      "src": "/public/images/logo.svg",
+      "sizes": "250x150 any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/public/images/favicon.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#222222",
+  "background_color": "#efefef",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
